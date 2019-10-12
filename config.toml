@@ -14,10 +14,10 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params]
-	subtitle = "Paradise"
+	subtitle = "Paradise is here or nowhere."
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
-        favicon = "https://github.com/lakudo/rakudo.netlify.com/blob/master/favicon.png"
+        favicon = "https://tilde.club/~canary/favicon.png"
 
 [[menu.main]]
 name = "Home"

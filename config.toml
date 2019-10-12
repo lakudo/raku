@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Canary"
+title = "Rakudo"
 theme = "ezhil"
 paginate = 5
 
@@ -17,7 +17,7 @@ disqusShortname = ""
 	subtitle = "A member of the updated tilde.club. "
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
-    favicon = "https://tilde.club/~canary/favicon.png"
+        favicon = "https://tilde.club/~canary/favicon.png"
 
 [[menu.main]]
 name = "Home"
@@ -57,7 +57,7 @@ url = "https://twitter.com/gohugoio"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = "https://tilde.club/~canary/index.xml"
+url = "https://rakudo.netlify.com/index.xml"
 
 [taxonomies]
    tag = "tags"

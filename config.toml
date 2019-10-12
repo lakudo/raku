@@ -14,7 +14,7 @@ googleAnalytics = ""
 disqusShortname = ""
 
 [params]
-	subtitle = "A member of the updated tilde.club. "
+	subtitle = "Paradise"
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
         favicon = "https://github.com/lakudo/rakudo.netlify.com/blob/master/favicon.png"

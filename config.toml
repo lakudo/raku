@@ -17,7 +17,7 @@ disqusShortname = ""
 	subtitle = "Paradise is here or nowhere."
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
-        favicon = "https://tilde.club/~canary/favicon.png"
+        favicon = "https://f000.backblazeb2.com/file/canicula/ImgURL/rakudo.png"
 
 [[menu.main]]
 name = "Home"

@@ -18,7 +18,7 @@ disqusShortname = ""
 	disableDisqusTypes = ["page"]
 	featherIconsCDN = true
         favicon = "https://f000.backblazeb2.com/file/canicula/ImgURL/rakudo.png"
-
+        mode = "dark" # "dark" or "auto"
 [[menu.main]]
 name = "Home"
 url = "/"

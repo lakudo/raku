@@ -1,6 +1,6 @@
 ---
 title: "Collection of some useful websites"
-date: 2018-11-20T21:03:37+08:00
+date: 2019-10-17T18:03:37+08:00
 categories:
   - "Miscellaneous"
 tags:
@@ -88,18 +88,3 @@ Here are the most useful websites on the Internet that will make you smarter, in
 48. [Jsfiddle](https://jsfiddle.net/) - Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.
 49. [Imgbb.com](https://imgbb.com/) - Upload and share your images.
 
-*Edit1: add Removebackground,TeraCloud 2018-12-26*
-
-*Edit2: add Anonfiles 2019-01-02*
-
-*Edit3: add Riot.im 2019-01-07*
-
-*Edit4: add Firefox Send 2019-03-13*
-
-*Edit5: modified some urls 2019-06-11*
-
-*Edit6: modified some urls 2019-09-08*
-
-*Edit7: modified some urls 2019-09-10*
-
-*Edit8: modified some urls 2019-09-23*

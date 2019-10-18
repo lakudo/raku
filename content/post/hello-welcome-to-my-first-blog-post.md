@@ -7,7 +7,7 @@ tags:
   - "Miscellaneous"
 ---
 
-Hi everyone! Weclome to my first blog post launched on tilde.club. I hope that I can often to update my blogs!Publish what you learn,Share knowledge with others. Keep being curious and happy posting! [@](http://tilde.club/~canary/map.html)
+Hi everyone! Weclome to my first blog post launched on netlify.com. I hope that I can often to update my blogs!Publish what you learn,Share knowledge with others. Keep being curious and happy posting! [@](http://tilde.club/~canary/map.html)
 
 
 

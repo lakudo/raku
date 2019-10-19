@@ -25,6 +25,7 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [NPR Thin](http://thin.npr.org/) - Text-only version of NPR.org
 - [Newshound](https://www.newshound.co/editions/en-us/) - Daily news from around the world
 - [Zaqs](https://www.zaqs.org/home.html) - A customizable news aggregator website and search engine. We currently index over 100 mainstream news websites.
+- [Slatestarcodex](https://slatestarcodex.com/) -  A blog by Scott Alexander about human cognition, politics, and medicine.
 - [Tildes](https://tildes.net/) -  A non-profit community site driven by its users' interests 
 - [FinURLs](https://finurls.com/) -World's simplest finance and business news aggregator
 - [Readspike](https://readspike.com/) - A news aggregator
@@ -44,12 +45,11 @@ Whatever your reason, find a list of links to mobile news sites that work on any
 - [Lobsters](https://lobste.rs/) - A technology-focused community centered around link aggregation and discussion
 - [Hacker News](https://news.ycombinator.com/news) - A social news website focusing on computer science and entrepreneurship.
 - [Reddit](https://old.reddit.com/) - Reddit .compact view
-- [Twitter](https://mobile.twitter.com) - A faster, data friendly way to use Twitter
+- [Twitter](https://mobile.twitter.com) - A faster, data friendly way to use Twitter-
 - [Medium](https://medium.com/) - A place to read and write big ideas and important stories
-
+- [AskHistorians](https://go.goso.workers.dev/-----https://www.reddit.com/r/AskHistorians) - All things history. Quality of discussions are way better than on most other subreddits. Highly moderated
 
 ## Other
-- [SlateStarCodex](http://slatestarcodex.com) - Endlessly interesting and thought provoking.
 - [Weather](http://wttr.in) - Tthe right way to check the weather.
 - [Wikipedia](https://wikipedia.org/) - A free online encyclopedia with the aim to allow anyone to edit articles
 - [DuckDuckGo](https://duckduckgo.com/lite) - A lite version of duckduckgo.com

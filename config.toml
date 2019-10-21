@@ -4,7 +4,7 @@ title = "Rakuen"
 theme = "ezhil"
 paginate = 5
 
-copyright = "© 2019 Rakudo"
+copyright = "© 2019 Rakuen"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
@@ -57,7 +57,7 @@ url = "https://twitter.com/gohugoio"
 [[params.social]]
 name = "RSS"
 icon = "rss"
-url = "https://rakudo.netlify.com/index.xml"
+url = "https://rakuen.netlify.com/index.xml"
 
 [taxonomies]
    tag = "tags"

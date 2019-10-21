@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Rakudo"
+title = "Rakuen"
 theme = "ezhil"
 paginate = 5
 
